@@ -7,7 +7,7 @@ I currently work at 🦸‍♀ Data Heroes 🦸‍♀️, where I am developing 
 for a full-time role as a BI Analyst. 
 I want my blog to be a source of knowledge and inspiration for others who want to better understand 
 and communicate information through data. 
-Here you can find examples of my reports: [https://www.novypro.com/profile_projects/mateusz]. 
+Here you can find examples of my reports: [https://www.novypro.com/profile_projects/mateusz].
 
 I invite you to follow my posts and explore the world of visualization with me!
 
