@@ -36,4 +36,8 @@ My tools 🛠
 - 📫 How to reach me: rajcapro@gmail.com
 
 
-
+I live with this quote : 
+"Patience. 
+No matter how high the mountain, 
+if you tread steadily,
+ you will eventually reach its summit." 
