@@ -1,12 +1,14 @@
 ## Hi there, I'm Mateusz - Data Analyst 👋 👋
 
 I am an aspiring Business Intelligence Analyst with a passion for data visualization and reporting. ✨
-Due to my keen interest in data analysis and creating advanced and effective reports, I decided to share my knowledge with you, 
-focusing mainly on advanced visualizations in Power BI! 🏆📈
+Due to my keen interest in data analysis and creating advanced and effective reports, I decided 
+to share my knowledge with you, focusing mainly on advanced visualizations in Power BI! 🏆📈
 I currently work at 🦸‍♀ Data Heroes 🦸‍♀️, where I am developing my analytical skills, preparing 
 for a full-time role as a BI Analyst. 
-I want my blog to be a source of knowledge and inspiration for others who want to better understand and communicate information through data. 
+I want my blog to be a source of knowledge and inspiration for others who want to better understand 
+and communicate information through data. 
 Here you can find examples of my reports: [https://www.novypro.com/profile_projects/mateusz]. 
+
 I invite you to follow my posts and explore the world of visualization with me!
 
 
