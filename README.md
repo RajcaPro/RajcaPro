@@ -26,7 +26,7 @@ My skills ✨
 - Publish and manage Power BI Service
 - Build Power BI Dataflows
 
-My tools 
+My tools 🛠
 - Databases: SQL, Excel, Google Sheets
 - Visualisation: Power BI
 
