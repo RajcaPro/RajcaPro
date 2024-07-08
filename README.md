@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-<!--
-## Hi there 👋
+i there 👋
 
 I am an aspiring Business Intelligence Analyst with a passion for data visualization and reporting. ✨
 Due to my keen interest in data analysis and creating advanced and effective reports, I decided to share my knowledge with you, 
@@ -33,5 +31,6 @@ My tools
 
 - 👯 I am looking for a job
 - 📫 How to reach me: rajcapro@gmail.com
+
 
 
