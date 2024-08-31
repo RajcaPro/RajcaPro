@@ -29,7 +29,7 @@ My tools 🛠
 
 
 
-- 👯I'm looking for challenges!
+- 👯 I'm looking for challenges!
 - 📫 How to reach me: rajcapro@gmail.com
 
 
